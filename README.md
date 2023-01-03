@@ -1,2 +1,3 @@
-# odin-recipes
-odin project
+## odin-recipes
+
+#  Odin projects homework.
