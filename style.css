@@ -1,0 +1,37 @@
+/*
+
+
+
+
+*/
+
+
+header {
+
+}
+
+.title {    
+    background-color: rgba(255, 217, 0, 0.671);
+
+
+    text-align: center;
+
+    width: 700px;
+    height: 300px;
+
+}
+
+
+.main {
+
+    background-color: rgb(228, 228, 238);
+    color:rgb(17, 13, 6);
+
+    font-size: 26px;
+
+    text-align: justify;
+
+    width: inherit;
+
+
+}
