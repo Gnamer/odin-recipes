@@ -1,4 +1,4 @@
-html{
+html {
     margin: 0;
     padding: 0;
 }
@@ -7,51 +7,55 @@ body {
     font-size: 1.6rem;
 }
 
-header{
+header {
     align-items: center;
     text-align: center;
     padding: 0 20px 0 0;
 }
 
-section{
+section {
 
     align-items: center;
     background-color: rgba(158, 157, 157, 0.705);
     grid-row: 2;
 }
 
-img{
-  
-   
-  width:  300px;
-  height: auto;
-  padding-left: 200px;
-  padding-top: 35px;
-  align-content: center;
-  
+img {
+
+
+    width: 300px;
+    height: auto;
+    padding-left: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+
 }
 
-p{ 
+p {
     text-align: center;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: rgb(24, 22, 22);
 }
 
-.list{
+.list {
     background-color: whitesmoke;
     min-width: 400px;
-    min-height: 300px ;
-    align-items: center;
-   
-    
+    min-height: 300px;
+
+
+
 }
-ul{
+
+ul {
     margin-top: 35px;
     list-style-type: none;
     /* padding: 20px  20px 20px; */
 }
-li{
+
+li {
     padding-bottom: 5px;
     overflow: auto;
-    
+
 }
